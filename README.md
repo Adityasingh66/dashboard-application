@@ -1,5 +1,5 @@
-# Curious Byte Data Dashboard with NextJS, TypeScript & MUI
-By [Harry Ashton](https://twitter.com/thehashton) for Curious Byte
+# Curious Byte Data Dashboard with NextJS, TypeScript 
+By [Aditya Kumar Singh]
 
 A data visualization dashboard is a great way to showcase your skills in building visually appealing and informative applications. You might include features such as interactive charts, graphs, and maps, and allow users to filter and manipulate data to gain insights. This type of application would require strong skills in data analysis and visualization, as well as an understanding of how to work with APIs to retrieve and process data.
 
